@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoCoSupermarket.UI", "GoCoSupermarket\GoCoSupermarket.UI.csproj", "{1296C415-0A23-4FA0-B744-29A54D28E5FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoCoSupermarket.Tests", "GoCoSupermarket.Tests\GoCoSupermarket.Tests.csproj", "{DB87088B-DD7A-4F11-87D4-D09E8EE31C9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoCoSupermarket.BusinessLogic", "GoCoSupermarket.BusinessLogic\GoCoSupermarket.BusinessLogic.csproj", "{5612912C-4B25-49C0-A9A9-9DAAA8AE0BF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoCoSupermarket.BusinessLogicInterfaces", "GoCoSupermarket.BusinessLogicInterfaces\GoCoSupermarket.BusinessLogicInterfaces.csproj", "{59394F10-5AAC-4529-9F45-070FBCC02B70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. UI", "4. UI", "{0C8D3E98-5826-4151-9B9D-8EF4985B4106}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Business Logic", "4. Business Logic", "{979579AB-A88B-4A62-A762-D44FA756B02F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Other", "2. Other", "{4EA5DAC9-BE75-47DE-AB38-5DD3CBF20FA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Tests", "1. Tests", "{297C22A8-E458-4595-A226-81B9BBC0B3BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoCoSupermarket.Globalisation", "GoCoSupermarket.Globalisation\GoCoSupermarket.Globalisation.csproj", "{3A4883C4-8196-47F8-94BE-9ADE903FD6AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoCoSupermarket.DTO", "GoCoSupermarket.DTO\GoCoSupermarket.DTO.csproj", "{9683FCB1-C21F-46F1-8713-1E045AAAEA32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Data", "3. Data", "{25300B4E-610F-4D50-8B91-F2669B0B0022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoCoSupermarket.Data", "GoCoSupermarket.Data\GoCoSupermarket.Data.csproj", "{1DC9ADB6-AF23-4181-A182-7E4F1FFA4B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoCoSupermarket.DataInterfaces", "GoCoSupermarket.DataInterfaces\GoCoSupermarket.DataInterfaces.csproj", "{E2A45770-3940-417B-A657-C8BFC613587C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1296C415-0A23-4FA0-B744-29A54D28E5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1296C415-0A23-4FA0-B744-29A54D28E5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1296C415-0A23-4FA0-B744-29A54D28E5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1296C415-0A23-4FA0-B744-29A54D28E5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB87088B-DD7A-4F11-87D4-D09E8EE31C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB87088B-DD7A-4F11-87D4-D09E8EE31C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB87088B-DD7A-4F11-87D4-D09E8EE31C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB87088B-DD7A-4F11-87D4-D09E8EE31C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5612912C-4B25-49C0-A9A9-9DAAA8AE0BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5612912C-4B25-49C0-A9A9-9DAAA8AE0BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5612912C-4B25-49C0-A9A9-9DAAA8AE0BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5612912C-4B25-49C0-A9A9-9DAAA8AE0BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59394F10-5AAC-4529-9F45-070FBCC02B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59394F10-5AAC-4529-9F45-070FBCC02B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59394F10-5AAC-4529-9F45-070FBCC02B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59394F10-5AAC-4529-9F45-070FBCC02B70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4883C4-8196-47F8-94BE-9ADE903FD6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4883C4-8196-47F8-94BE-9ADE903FD6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4883C4-8196-47F8-94BE-9ADE903FD6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4883C4-8196-47F8-94BE-9ADE903FD6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9683FCB1-C21F-46F1-8713-1E045AAAEA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9683FCB1-C21F-46F1-8713-1E045AAAEA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9683FCB1-C21F-46F1-8713-1E045AAAEA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9683FCB1-C21F-46F1-8713-1E045AAAEA32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC9ADB6-AF23-4181-A182-7E4F1FFA4B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC9ADB6-AF23-4181-A182-7E4F1FFA4B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC9ADB6-AF23-4181-A182-7E4F1FFA4B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC9ADB6-AF23-4181-A182-7E4F1FFA4B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A45770-3940-417B-A657-C8BFC613587C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A45770-3940-417B-A657-C8BFC613587C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A45770-3940-417B-A657-C8BFC613587C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A45770-3940-417B-A657-C8BFC613587C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1296C415-0A23-4FA0-B744-29A54D28E5FD} = {0C8D3E98-5826-4151-9B9D-8EF4985B4106}
+		{DB87088B-DD7A-4F11-87D4-D09E8EE31C9C} = {297C22A8-E458-4595-A226-81B9BBC0B3BA}
+		{5612912C-4B25-49C0-A9A9-9DAAA8AE0BF8} = {979579AB-A88B-4A62-A762-D44FA756B02F}
+		{59394F10-5AAC-4529-9F45-070FBCC02B70} = {979579AB-A88B-4A62-A762-D44FA756B02F}
+		{3A4883C4-8196-47F8-94BE-9ADE903FD6AF} = {4EA5DAC9-BE75-47DE-AB38-5DD3CBF20FA6}
+		{9683FCB1-C21F-46F1-8713-1E045AAAEA32} = {4EA5DAC9-BE75-47DE-AB38-5DD3CBF20FA6}
+		{1DC9ADB6-AF23-4181-A182-7E4F1FFA4B6A} = {25300B4E-610F-4D50-8B91-F2669B0B0022}
+		{E2A45770-3940-417B-A657-C8BFC613587C} = {25300B4E-610F-4D50-8B91-F2669B0B0022}
+	EndGlobalSection
+EndGlobal
