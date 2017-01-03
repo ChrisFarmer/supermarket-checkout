@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{89071C89-A712-4242-8CE5-10210352D520}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GoCoSupermarket.DependencyInjection</RootNamespace>
+    <AssemblyName>GoCoSupermarket.DependencyInjection</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="StructureMap, Version=4.3.0.449, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\StructureMap.4.4.0\lib\net45\StructureMap.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationRegistry.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GoCoSupermarket.BusinessLogicInterfaces\GoCoSupermarket.BusinessLogicInterfaces.csproj">
+      <Project>{59394f10-5aac-4529-9f45-070fbcc02b70}</Project>
+      <Name>GoCoSupermarket.BusinessLogicInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GoCoSupermarket.DataInterfaces\GoCoSupermarket.DataInterfaces.csproj">
+      <Project>{e2a45770-3940-417b-a657-c8bfc613587c}</Project>
+      <Name>GoCoSupermarket.DataInterfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GoCoSupermarket.Data\GoCoSupermarket.Data.csproj">
+      <Project>{1dc9adb6-af23-4181-a182-7e4f1ffa4b6a}</Project>
+      <Name>GoCoSupermarket.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GoCoSupermarketCheckout.BusinessLogic\GoCoSupermarket.BusinessLogic.csproj">
+      <Project>{5612912c-4b25-49c0-a9a9-9daaa8ae0bf8}</Project>
+      <Name>GoCoSupermarket.BusinessLogic</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GoCoSupermarket.DTO</name>
+    </assembly>
+    <members>
+        <member name="T:GoCoSupermarket.DTO.Offer">
+            <summary>
+            Represents a special offer that a particular product may have.
+            </summary>
+        </member>
+        <member name="P:GoCoSupermarket.DTO.Offer.Number">
+            <summary>
+            The number of items required before the discount can be applied.
+            </summary>
+        </member>
+        <member name="P:GoCoSupermarket.DTO.Offer.TotalPrice">
+            <summary>
+            The total price that is paid for the items under the offer.
+            </summary>
+        </member>
+        <member name="T:GoCoSupermarket.DTO.StockKeepingUnit">
+            <summary>
+            Represents an item that can be purchased from the store which 
+            may or may not have a special offer associated with it.
+            </summary>
+        </member>
+        <member name="P:GoCoSupermarket.DTO.StockKeepingUnit.ItemCode">
+            <summary>
+            The unique ID that will identify a product. e.g. 'A', 'B'
+            </summary>
+        </member>
+        <member name="P:GoCoSupermarket.DTO.StockKeepingUnit.Price">
+            <summary>
+            The standard price of the product.
+            </summary>
+        </member>
+        <member name="P:GoCoSupermarket.DTO.StockKeepingUnit.Offer">
+            <summary>
+            A special offer that may be available on the item.
+            </summary>
+        </member>
+    </members>
+</doc>

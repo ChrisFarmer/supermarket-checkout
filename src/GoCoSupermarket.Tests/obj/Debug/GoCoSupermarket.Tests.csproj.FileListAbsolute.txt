@@ -1,0 +1,103 @@
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarketCheckout.Tests.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarketCheckout.Tests.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\Castle.Core.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.BusinessLogic.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.Data.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.DataInterfaces.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.DTO.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\Moq.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\nunit.framework.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.Globalisation.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.DataInterfaces.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.Data.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.Data.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.DTO.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.BusinessLogic.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.BusinessLogic.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\Castle.Core.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\Moq.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\nunit.framework.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.Globalisation.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\obj\Debug\GoCoSupermarket.Tests.csprojResolveAssemblyReference.cache
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\obj\Debug\GoCoSupermarketCheckout.Tests.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\obj\Debug\GoCoSupermarketCheckout.Tests.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.DataInterfaces.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarketCheckout.Tests\bin\Debug\GoCoSupermarket.DTO.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\obj\Debug\GoCoSupermarket.Tests.csprojResolveAssemblyReference.cache
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\obj\Debug\GoCoSupermarketCheckout.Tests.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\obj\Debug\GoCoSupermarketCheckout.Tests.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarketCheckout.Tests.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarketCheckout.Tests.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\Castle.Core.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogic.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DataInterfaces.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DTO.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\Moq.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\nunit.framework.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.Globalisation.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogic.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogic.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DataInterfaces.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DataInterfaces.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DTO.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DTO.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\Castle.Core.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\Moq.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\nunit.framework.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.Globalisation.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarketCheckout.Tests.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarketCheckout.Tests.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\Castle.Core.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogic.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DTO.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\Moq.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\nunit.framework.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DataInterfaces.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.Globalisation.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.xml
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogic.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogic.xml
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DTO.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DTO.xml
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\Castle.Core.xml
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\Moq.xml
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\nunit.framework.xml
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DataInterfaces.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DataInterfaces.xml
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.Globalisation.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\obj\Debug\GoCoSupermarket.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\obj\Debug\GoCoSupermarketCheckout.Tests.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Tests\obj\Debug\GoCoSupermarketCheckout.Tests.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarketCheckout.Tests.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarketCheckout.Tests.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\Castle.Core.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogic.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DTO.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\Moq.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\nunit.framework.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DataInterfaces.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.Globalisation.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.xml
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogic.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.BusinessLogic.xml
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DTO.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DTO.xml
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\Castle.Core.xml
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\Moq.xml
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\nunit.framework.xml
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DataInterfaces.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.DataInterfaces.xml
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\bin\Debug\GoCoSupermarket.Globalisation.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\obj\Debug\GoCoSupermarket.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\obj\Debug\GoCoSupermarketCheckout.Tests.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Tests\obj\Debug\GoCoSupermarketCheckout.Tests.pdb
