@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GoCoSupermarket.BusinessLogicInterfaces</name>
+    </assembly>
+    <members>
+        <member name="T:GoCoSupermarket.BusinessLogicInterfaces.IPriceCalculatorBusinessLogic">
+            <summary>
+            Provides methods for calculating the cost of purchased items.
+            </summary>
+        </member>
+        <member name="M:GoCoSupermarket.BusinessLogicInterfaces.IPriceCalculatorBusinessLogic.GetTotalCostOfItems(System.Collections.Generic.Dictionary{System.Char,System.Collections.Generic.IEnumerable{GoCoSupermarket.DTO.StockKeepingUnit}})">
+            <summary>
+            Returns the total cost of an individual's shopping, applying any special
+            offers available.
+            </summary>
+            <param name="items">A parsed Dictionary representing the items purchased.</param>
+            <returns>A decimal representing the total cost of the items.</returns>
+        </member>
+        <member name="T:GoCoSupermarket.BusinessLogicInterfaces.IStockParserBusinessLogic">
+            <summary>
+            Parses a set of stock.
+            </summary>
+        </member>
+        <member name="M:GoCoSupermarket.BusinessLogicInterfaces.IStockParserBusinessLogic.ParseStockItems(System.String)">
+            <summary>
+            Parses item codes into a dictionary of the format: ['X', [SKU1, SKU2]], 
+            where 'X' is the item code and [SKU1, SKU2] is an IEnumerable of StockKeepingUnits.
+            </summary>
+            <param name="items">A string representing the set of items purchased.</param>
+            <returns>A Dictionary.</returns>
+        </member>
+        <member name="T:GoCoSupermarket.BusinessLogicInterfaces.IStockValidatorBusinessLogic">
+            <summary>
+            Provides methods for validating a set of items purchased.
+            </summary>
+        </member>
+        <member name="M:GoCoSupermarket.BusinessLogicInterfaces.IStockValidatorBusinessLogic.ValidateItemCodes(System.String)">
+            <summary>
+            Validates a set of items and throws exceptions if errors are encountered.
+            </summary>
+            <param name="itemCodes">The items purchased.</param>
+        </member>
+        <member name="T:GoCoSupermarket.BusinessLogic.IPriceCalculatorStrategy">
+            <summary>
+            An interface to using which the price of different types of items can be calculated.
+            </summary>
+        </member>
+        <member name="M:GoCoSupermarket.BusinessLogic.IPriceCalculatorStrategy.GetPrice(System.Collections.Generic.IEnumerable{GoCoSupermarket.DTO.StockKeepingUnit})">
+            <summary>
+            Returns the total price for a set of items.
+            </summary>
+            <param name="items">An IEnumerable of StockKeepingUnit objects.</param>
+            <returns>A decimal representing the total price of the items.</returns>
+        </member>
+    </members>
+</doc>

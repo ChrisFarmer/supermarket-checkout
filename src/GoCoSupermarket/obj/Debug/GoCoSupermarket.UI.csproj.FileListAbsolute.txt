@@ -1,0 +1,78 @@
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.UI.exe.config
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.UI.exe
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.UI.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.UI.XML
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogic.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.Data.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.DataInterfaces.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.DTO.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.Globalisation.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\StructureMap.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.DataInterfaces.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.DataInterfaces.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.Data.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.Data.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.DTO.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.DTO.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.Globalisation.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogic.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogic.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\obj\Debug\GoCoSupermarket.UI.csprojResolveAssemblyReference.cache
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\obj\Debug\GoCoSupermarket.UI.exe
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket\obj\Debug\GoCoSupermarket.UI.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.UI.exe.config
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\obj\Debug\GoCoSupermarket.UI.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.UI.exe
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.UI.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.UI.XML
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogic.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.Data.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.DataInterfaces.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.DTO.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.Globalisation.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\StructureMap.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.xml
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.DataInterfaces.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.DataInterfaces.xml
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.Data.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.Data.xml
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.DTO.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.DTO.xml
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.Globalisation.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogic.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogic.xml
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\obj\Debug\GoCoSupermarket.UI.csprojResolveAssemblyReference.cache
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket\obj\Debug\GoCoSupermarket.UI.exe
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.UI.exe.config
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.UI.exe
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.UI.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.UI.XML
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogic.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.Data.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.DataInterfaces.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.DTO.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.Globalisation.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\StructureMap.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.xml
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.DataInterfaces.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.DataInterfaces.xml
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.Data.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.Data.xml
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.DTO.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.DTO.xml
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.Globalisation.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogic.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.BusinessLogic.xml
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\obj\Debug\GoCoSupermarket.UI.csprojResolveAssemblyReference.cache
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\obj\Debug\GoCoSupermarket.UI.exe
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket\obj\Debug\GoCoSupermarket.UI.pdb
+C:\Users\ChrisFarmer\Downloads\src\GoCoSupermarket\bin\Debug\GoCoSupermarket.UI.exe.config
+C:\Users\ChrisFarmer\Downloads\src\GoCoSupermarket\obj\Debug\GoCoSupermarket.UI.exe
+C:\Users\ChrisFarmer\Downloads\src\GoCoSupermarket\obj\Debug\GoCoSupermarket.UI.pdb

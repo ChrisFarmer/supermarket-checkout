@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GoCoSupermarket.UI</name>
+    </assembly>
+    <members>
+        <member name="T:GoCoSupermarket.DependencyInjection.ApplicationRegistry">
+            <summary>
+            Used by StructureMap to initialise certain assemblies for dependency injection.
+            </summary>
+        </member>
+        <member name="M:GoCoSupermarket.DependencyInjection.ApplicationRegistry.#ctor">
+            <summary>
+            Used to initialise the classes that StructureMap will instantiate and inject through constructors.
+            </summary>
+        </member>
+        <member name="M:GoCoSupermarket.UI.GoCoSupermarket.CurrentDomain_UnhandledException(System.Object,System.UnhandledExceptionEventArgs)">
+            <summary>
+            Handles exceptions thrown from the application. Displays an error message and terminates the app.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:GoCoSupermarket.UI.GoCoSupermarket.CalculatePrice(System.String)">
+            <summary>
+            Calculates the total price of the purchased items.
+            </summary>
+            <param name="items">The items that have been purchased as a string.</param>
+            <returns>A decimal representing the total price of the items.</returns>
+        </member>
+        <member name="M:GoCoSupermarket.UI.GoCoSupermarket.GetSanitisedInput(System.String[])">
+            <summary>
+            Ensures any characters other than letters are removed before parsing the input string.
+            </summary>
+            <param name="args">The stock items passed in on the command line.</param>
+            <returns>A string containing letters only.</returns>
+        </member>
+    </members>
+</doc>

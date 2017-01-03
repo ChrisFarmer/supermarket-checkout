@@ -1,0 +1,36 @@
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.XML
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarketCheckout\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.XML
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.pdb
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.xml
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\chris.farmer\Documents\Visual Studio 2013\Projects\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.XML
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.pdb
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.xml
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.XML
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.pdb
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.xml
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
