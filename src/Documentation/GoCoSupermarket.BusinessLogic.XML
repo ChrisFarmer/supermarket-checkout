@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GoCoSupermarket.BusinessLogic</name>
+    </assembly>
+    <members>
+        <member name="M:GoCoSupermarket.BusinessLogic.StockParserBusinessLogic.CategoriseStockKeepingUnits(System.Collections.Generic.IEnumerable{GoCoSupermarket.DTO.StockKeepingUnit},System.Collections.Generic.IEnumerable{System.Char})">
+            <summary>
+            Takes a set of SKUs and organises them into a dictionary, where the key is the item code, and the value is the set of items with that offer code.
+            </summary>
+            <param name="stockKeepingUnits">The set of SKUs purchased.</param>
+            <param name="itemCodes">A set of item codes representing the items purchased.</param>
+            <returns>A dictionary.</returns>
+        </member>
+    </members>
+</doc>

@@ -12,10 +12,3 @@ C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupe
 C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Globalisation\obj\Debug\GoCoSupermarket.Globalisation.csproj.GenerateResource.Cache
 C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Globalisation\obj\Debug\GoCoSupermarket.Globalisation.dll
 C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.Globalisation\obj\Debug\GoCoSupermarket.Globalisation.pdb
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Globalisation\bin\Debug\GoCoSupermarket.Globalisation.dll
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Globalisation\bin\Debug\GoCoSupermarket.Globalisation.pdb
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Globalisation\obj\Debug\GoCoSupermarket.Globalisation.csprojResolveAssemblyReference.cache
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Globalisation\obj\Debug\GoCoSupermarket.Globalisation.ResourceStrings.resources
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Globalisation\obj\Debug\GoCoSupermarket.Globalisation.csproj.GenerateResource.Cache
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Globalisation\obj\Debug\GoCoSupermarket.Globalisation.dll
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.Globalisation\obj\Debug\GoCoSupermarket.Globalisation.pdb

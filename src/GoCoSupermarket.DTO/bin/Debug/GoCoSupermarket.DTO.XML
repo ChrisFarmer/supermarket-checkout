@@ -4,19 +4,19 @@
         <name>GoCoSupermarket.DTO</name>
     </assembly>
     <members>
-        <member name="T:GoCoSupermarket.DTO.Offer">
+        <member name="T:GoCoSupermarket.DTO.MultiBuyOffer">
             <summary>
-            Represents a special offer that a particular product may have.
+            Represents a special multiBuyOffer that a particular product may have.
             </summary>
         </member>
-        <member name="P:GoCoSupermarket.DTO.Offer.Number">
+        <member name="P:GoCoSupermarket.DTO.MultiBuyOffer.Number">
             <summary>
             The number of items required before the discount can be applied.
             </summary>
         </member>
-        <member name="P:GoCoSupermarket.DTO.Offer.TotalPrice">
+        <member name="P:GoCoSupermarket.DTO.MultiBuyOffer.TotalPrice">
             <summary>
-            The total price that is paid for the items under the offer.
+            The total price that is paid for the items under the multiBuyOffer.
             </summary>
         </member>
         <member name="T:GoCoSupermarket.DTO.StockKeepingUnit">
@@ -35,7 +35,7 @@
             The standard price of the product.
             </summary>
         </member>
-        <member name="P:GoCoSupermarket.DTO.StockKeepingUnit.Offer">
+        <member name="P:GoCoSupermarket.DTO.StockKeepingUnit.MultiBuyOffer">
             <summary>
             A special offer that may be available on the item.
             </summary>

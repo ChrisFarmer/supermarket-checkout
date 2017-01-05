@@ -17,7 +17,7 @@ namespace GoCoSupermarket.Data
                 {
                     ItemCode = 'A',
                     Price = 50.00M,
-                    Offer = new Offer 
+                    MultiBuyOffer = new MultiBuyOffer 
                     {
                         Number = 3,
                         TotalPrice = 130.00M
@@ -31,7 +31,7 @@ namespace GoCoSupermarket.Data
                 {
                     ItemCode = 'B',
                     Price = 30.00M,
-                    Offer = new Offer 
+                    MultiBuyOffer = new MultiBuyOffer 
                     {
                         Number = 2,
                         TotalPrice = 45.00M

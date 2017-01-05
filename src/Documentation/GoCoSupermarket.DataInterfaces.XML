@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GoCoSupermarket.DataInterfaces</name>
+    </assembly>
+    <members>
+        <member name="T:GoCoSupermarket.DataInterfaces.IStockKeepingUnitRepository">
+            <summary>
+            DAL class which would, in a real life application, access
+            the database to retrieve stock pricing.
+            </summary>
+        </member>
+        <member name="M:GoCoSupermarket.DataInterfaces.IStockKeepingUnitRepository.GetStockKeepingUnits(System.Collections.Generic.IEnumerable{System.Char})">
+            <summary>
+            Returns a set of StockKeepingUnits for each item purchased.
+            </summary>
+            <param name="itemCodes">The codes of the items purchased.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

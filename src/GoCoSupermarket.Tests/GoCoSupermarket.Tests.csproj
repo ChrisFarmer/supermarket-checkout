@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="PriceCalculatorBusinessLogic_GetTotalCostOfItems.cs" />
+    <Compile Include="PriceCalculatorFactoryTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestBase.cs" />
   </ItemGroup>

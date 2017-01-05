@@ -45,7 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="OfferPricingStrategy.cs" />
+    <Compile Include="MultiBuyStrategy.cs" />
     <Compile Include="PriceCalculatorBusinessLogic.cs" />
     <Compile Include="PriceCalculatorFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

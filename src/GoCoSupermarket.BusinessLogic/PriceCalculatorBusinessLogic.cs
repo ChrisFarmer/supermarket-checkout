@@ -9,15 +9,13 @@ namespace GoCoSupermarket.BusinessLogic
     {
         public decimal GetTotalCostOfItems(Dictionary<char, IEnumerable<StockKeepingUnit>> items)
         {
-            decimal totalCost = 0.0M;
-
-            foreach (var itemCode in items.Keys) 
+            var skuGroup = items.First().Value;
+            var runningTotal = 0M;
+            foreach (var stockKeepingUnit in skuGroup)
             {
-                var strategy = PriceCalculatorFactory.GetStrategy(items[itemCode].First());
-                totalCost += strategy.GetPrice(items[itemCode]);
+                runningTotal = stockKeepingUnit.GetPrice(skuGroup);
             }
-
-            return totalCost;
+            return runningTotal;
         }
     }
 }

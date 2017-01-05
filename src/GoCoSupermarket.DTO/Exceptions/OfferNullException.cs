@@ -4,11 +4,11 @@ namespace GoCoSupermarket.DTO.Exceptions
 {
     public class OfferNullException : Exception
     {
-        public OfferNullException(Offer? offer) : base()
+        public OfferNullException(MultiBuyOffer multiBuyOffer) : base()
         {
-            this.Offer = offer;
+            this.MultiBuyOffer = multiBuyOffer;
         }
         
-        public Offer? Offer { get; private set; }
+        public MultiBuyOffer MultiBuyOffer { get; private set; }
     }
 }

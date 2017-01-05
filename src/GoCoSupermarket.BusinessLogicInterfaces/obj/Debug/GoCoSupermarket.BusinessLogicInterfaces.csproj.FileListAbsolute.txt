@@ -25,12 +25,21 @@ C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupe
 C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.csprojResolveAssemblyReference.cache
 C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
 C:\Users\ChrisFarmer\Downloads\GoCoSupermarket - Sep 15\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.XML
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.dll
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.pdb
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.xml
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.csprojResolveAssemblyReference.cache
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
-C:\Users\ChrisFarmer\Downloads\New folder\GoCoSupermarketxxx\GoCoSupermarketxyz\src\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\DermotKilroy\Documents\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\DermotKilroy\Documents\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+C:\Users\DermotKilroy\Documents\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.XML
+C:\Users\DermotKilroy\Documents\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.dll
+C:\Users\DermotKilroy\Documents\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.pdb
+C:\Users\DermotKilroy\Documents\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.xml
+C:\Users\DermotKilroy\Documents\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\DermotKilroy\Documents\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+C:\Users\DermotKilroy\Documents\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+P:\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+P:\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb
+P:\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.BusinessLogicInterfaces.XML
+P:\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.dll
+P:\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.pdb
+P:\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\bin\Debug\GoCoSupermarket.DTO.xml
+P:\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.csprojResolveAssemblyReference.cache
+P:\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.dll
+P:\DevTeam\Training\Code Submissions\ChrisFarmer\GoCoSupermarket\GoCoSupermarket\GoCoSupermarket.BusinessLogicInterfaces\obj\Debug\GoCoSupermarket.BusinessLogicInterfaces.pdb

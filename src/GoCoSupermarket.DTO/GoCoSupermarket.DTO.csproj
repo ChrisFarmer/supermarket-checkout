@@ -43,7 +43,7 @@
     <Compile Include="Exceptions\AppSettingsException.cs" />
     <Compile Include="Exceptions\ItemCodeException.cs" />
     <Compile Include="Exceptions\OfferNullException.cs" />
-    <Compile Include="Offer.cs" />
+    <Compile Include="MultiBuyOffer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StockKeepingUnit.cs" />
   </ItemGroup>

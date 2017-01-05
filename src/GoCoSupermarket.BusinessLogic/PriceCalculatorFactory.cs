@@ -1,27 +1,38 @@
-﻿using GoCoSupermarket.DTO;
+﻿using System.Runtime.CompilerServices;
+using GoCoSupermarket.DTO;
 
 namespace GoCoSupermarket.BusinessLogic
 {
-    internal static class PriceCalculatorFactory
+    public static class PriceCalculatorFactory
     {
         private static IPriceCalculatorStrategy StandardPricingStrategy = null;
-        private static IPriceCalculatorStrategy OfferPricingStrategy = null;
+        private static IPriceCalculatorStrategy MultiBuyStrategy = null;
 
-        internal static IPriceCalculatorStrategy GetStrategy(StockKeepingUnit stockKeepingUnit)
+        public static IPriceCalculatorStrategy GetStrategy(StockKeepingUnit stockKeepingUnit)
         {
-            return stockKeepingUnit.Offer.HasValue ? OfferPricingStrategyInstance : StandardPricingStrategyInstance; 
+            if (stockKeepingUnit.Is(OfferType.MultiBuy))
+            {
+                return MultiBuyStrategyInstance;
+            }
+
+            if (stockKeepingUnit.Is(OfferType.Standard))
+            {
+                return StandardPricingStrategyInstance;
+            }
+
+            return new DateBasedStrategy();
         }
 
-        private static IPriceCalculatorStrategy OfferPricingStrategyInstance
+        private static IPriceCalculatorStrategy MultiBuyStrategyInstance
         {
             get
             {
-                if (OfferPricingStrategy == null)
+                if (MultiBuyStrategy == null)
                 {
-                    OfferPricingStrategy = new OfferPricingStrategy();
+                    MultiBuyStrategy = new MultiBuyStrategy();
                 }
 
-                return OfferPricingStrategy;
+                return MultiBuyStrategy;
             }
         }
 
